@@ -53,5 +53,3 @@ ctest
 - Google Test/Mock  
 - GitHub Actions  
 - Coveralls.io  
-
-[![Coverage Status](https://coveralls.io/repos/github/kssseniya/lab05/badge.svg?branch=main)](https://coveralls.io/github/kssseniya/lab05?branch=main)
